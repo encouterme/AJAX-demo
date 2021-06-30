@@ -15,6 +15,7 @@
   <div id="divContent"></div>
   <script>
     alert("ahaha");
+    alert("third commit");
     document.getElementById("btnLoad").onclick = function(){
       //1. Create XMLHttpRequest object
       var xmlhttp;
