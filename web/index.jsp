@@ -14,9 +14,9 @@
   <input id="btnLoad" type="button" value="load">
   <div id="divContent"></div>
   <script>
-    alert("ahaha");
-    alert("third commit");
-    alert("hot-fix3");
+
+    alert("masterfirst2012");
+
     document.getElementById("btnLoad").onclick = function(){
       //1. Create XMLHttpRequest object
       var xmlhttp;
