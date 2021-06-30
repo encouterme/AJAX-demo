@@ -20,6 +20,7 @@
     alert("hotfixsecond2021");
     alert("masterfixsecond2025");
 
+    alert("hotfixthird2023");
     document.getElementById("btnLoad").onclick = function(){
       //1. Create XMLHttpRequest object
       var xmlhttp;
