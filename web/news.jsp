@@ -28,6 +28,7 @@
                 var json = JSON.parse(text);
                 console.log(text);
                 console.log(json);
+                console.log("modify from github");
                 alert(json);
                 // document.getElementById("container").innerText = text;
                 var html = "";
