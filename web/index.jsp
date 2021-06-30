@@ -16,6 +16,7 @@
   <script>
     alert("ahaha");
     alert("third commit");
+    alert("hot-fix3");
     document.getElementById("btnLoad").onclick = function(){
       //1. Create XMLHttpRequest object
       var xmlhttp;
