@@ -17,6 +17,7 @@
 
     alert("masterfirst2012");
     alert("hotfixfirst2015");
+    alert("hotfixsecond2021");
 
     document.getElementById("btnLoad").onclick = function(){
       //1. Create XMLHttpRequest object
